@@ -18,13 +18,13 @@ pip install flash-attn==2.3.6 --no-build-isolation
 
 以下工作目录均为 `internvl_chat` 。
 
-自定义SFT数据共包含三个文件，分别是元数据 `ui_dataset.json`，训练数据 `ui-dataset.zip`，训练脚本 `internvl2_1b_qwen2_0_5b_dynamic_res_2nd_finetune_lora_ui.sh`.
+自定义SFT数据共包含三个文件，分别是元数据 `ui_dataset.json`/`ui_dataset_eval.json`，训练数据 `ui-dataset.zip`，训练脚本 `internvl2_1b_qwen2_0_5b_dynamic_res_2nd_finetune_lora_ui.sh`.
 
 训练前，将 `ui-dataset.zip` 中的内容解压到 `data/ui-dataset` 目录下
 
 ```bash
-mkdir -p data/ui-dataset && cd data/ui-dataset
-wget https://github.com/sjtuzc954/InternVL/releases/download/release/ui-dataset.zip
+cd data/
+wget https://github.com/sjtuzc954/InternVL/releases/download/v0.2/ui-dataset.zip
 unzip ui-dataset.zip
 ```
 
@@ -53,5 +53,12 @@ cp pretrained/InternVL2-1B/config.json work_dirs/internvl_chat_v2_0/internvl2_1b
 cp pretrained/InternVL2-1B/*.py work_dirs/internvl_chat_v2_0/internvl2_1b_qwen2_0_5b_dynamic_res_2nd_finetune_lora_ui_merge
 ```
 
+## 评估
 
+可以使用 `tensorboard` 工具查看训练过程中的 train/eval loss 曲线。
 
+```bash
+tensorboard --logdir ./work_dirs/internvl_chat_v2_0/internvl2_1b_qwen2_0_5b_dynamic_res_2nd_finetune_lora_ui --port 10097 --host 127.0.0.1
+```
+
+之后通过浏览器访问 `localhost:10097`。也可以运行 `demo.py` 进行模型推理。
