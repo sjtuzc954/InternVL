@@ -92,7 +92,7 @@ model = AutoModel.from_pretrained(
 tokenizer = AutoTokenizer.from_pretrained(path, trust_remote_code=True, use_fast=False)
 
 # set the max number of tiles in `max_num`
-img_path = './data/ui-dataset/train/OnePlus_Communication_Social-Networking_2_3.jpg'
+img_path = './data/ui-dataset/train/OnePlus_Communication_Community_1_5.jpg'
 pixel_values = load_image(img_path, max_num=12).to(torch.bfloat16).cuda()
 generation_config = dict(max_new_tokens=1024, do_sample=False)
 
@@ -106,7 +106,7 @@ generation_config = dict(max_new_tokens=1024, do_sample=False)
 # print(f'User: {question}\nAssistant: {response}')
 
 # single-image single-round conversation (单图单轮对话)
-question = "<image>\n你是一个手机助手，手机当前打开的应用为\"微博\"。现在你的目标是\"关注微博博主\"评论罗伯特\"\"，你的历史操作为[launch app \"微博\", input \"评论罗伯特\" into input box]，请基于这张屏幕图片，输出你的下一步操作。"
+question = "<image>\n你是一个手机助手，手机当前打开的应用为\"知乎\"。现在你的目标是\"在知乎上提问\"如何训练神经网络?\"\"，你的历史操作为[launch app \"知乎\", click icon \"+\", click button \"提问\", input \"如何训练神经网络?\" into input box with placeholder \"输入问题并以问号结尾(必填)\"]，请基于这张屏幕图片，输出你的下一步操作。若这是最后一步，额外输出\"done\"。"
 response = model.chat(tokenizer, pixel_values, question, generation_config)
 print(f'User: {question}\nAssistant: {response}')
 i1, i2 = response.find("[["), response.find("]]")

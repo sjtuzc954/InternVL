@@ -33,6 +33,7 @@ torchrun \
   --conv_style "Hermes-2" \
   --output_dir ${OUTPUT_DIR} \
   --meta_path "./shell/data/ui_dataset.json" \
+  --meta_path_eval "./shell/data/ui_dataset_eval.json" \
   --overwrite_output_dir True \
   --force_image_size 448 \
   --max_dynamic_patch 6 \
@@ -41,14 +42,15 @@ torchrun \
   --freeze_llm True \
   --freeze_mlp True \
   --freeze_backbone True \
-  --use_llm_lora 16 \
+  --use_llm_lora 64 \
   --vision_select_layer -1 \
   --dataloader_num_workers 4 \
   --bf16 True \
-  --num_train_epochs 1 \
+  --num_train_epochs 6 \
   --per_device_train_batch_size ${PER_DEVICE_BATCH_SIZE} \
   --gradient_accumulation_steps ${GRADIENT_ACC} \
-  --evaluation_strategy "no" \
+  --evaluation_strategy "epoch" \
+  --do_eval True \
   --save_strategy "steps" \
   --save_steps 200 \
   --save_total_limit 1 \

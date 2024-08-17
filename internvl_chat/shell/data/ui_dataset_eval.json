@@ -1,9 +1,9 @@
 {
   "ui-dataset": {
     "root": "data/ui-dataset",
-    "annotation": "data/ui-dataset/annotations/ui_dataset_train.jsonl",
+    "annotation": "data/ui-dataset/annotations/ui_dataset_val.jsonl",
     "data_augment": false,
     "repeat_time": 1,
-    "length": 416
+    "length": 46
   }
 }

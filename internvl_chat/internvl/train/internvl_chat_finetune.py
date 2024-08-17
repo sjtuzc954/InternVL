@@ -174,7 +174,11 @@ class DataTrainingArguments:
     )
     meta_path: Optional[str] = field(
         default=None,
-        metadata={'help': 'The path of the meta file of datasets.'},
+        metadata={'help': 'The path of the meta file of train datasets.'},
+    )
+    meta_path_eval: Optional[str] = field(
+        default=None,
+        metadata={'help': 'The path of the meta file of eval datasets.'},
     )
     use_data_resampling: Optional[bool] = field(
         default=False,
@@ -599,6 +603,59 @@ def build_datasets(
         train_dataset = ConcatDataset(datasets)
     return train_dataset
 
+def build_eval_datasets(
+    data_args,
+    tokenizer,
+    tcs_loader,
+    model,
+    group_by_length=False,
+    dynamic_image_size=False,
+    use_thumbnail=False,
+    min_dynamic_patch=1,
+    max_dynamic_patch=12,
+    normalize_type='imagenet',
+):
+    datasets = []
+    lengths = []
+    ds_collections = json.loads(open(data_args.meta_path_eval).read())
+    for ds_idx, ds_name in enumerate(ds_collections.keys()):
+        repeat_time = ds_collections[ds_name]['repeat_time']
+        if 'max_dynamic_patch' in ds_collections[ds_name]:
+            max_num = ds_collections[ds_name]['max_dynamic_patch']
+            logger.info(f'max_dynamic_patch is set to {max_num} according to the meta file')
+        else:
+            max_num = max_dynamic_patch
+        dataset = LazySupervisedDataset(
+            data_args.conv_style, ds_collections[ds_name],
+            tokenizer,
+            tcs_loader,
+            ds_name=ds_name,
+            num_image_token=model.num_image_token,
+            image_size=data_args.force_image_size,
+            is_train=ds_collections[ds_name]['data_augment'],
+            pad2square=data_args.pad2square,
+            group_by_length=group_by_length,
+            dynamic_image_size=dynamic_image_size,
+            use_thumbnail=use_thumbnail,
+            min_dynamic_patch=min_dynamic_patch,
+            max_dynamic_patch=max_num,
+            repeat_time=repeat_time,
+            normalize_type=normalize_type,
+            random_seed=ds_idx,
+        )
+        logger.info(f'Add eval dataset: {ds_name} with length: {len(dataset)}')
+        datasets.append(dataset)
+        if data_args.use_data_resampling:
+            lengths.append(math.sqrt(len(dataset)))
+        else:
+            lengths.append(len(dataset))
+    if data_args.use_data_resampling:
+        total_length = sum(lengths)
+        weights = [l / total_length for l in lengths]
+        eval_dataset = WeightedConcatDataset(datasets, weights)
+    else:
+        eval_dataset = ConcatDataset(datasets)
+    return eval_dataset
 
 def main():
     # Parse input arguments
@@ -767,6 +824,12 @@ def main():
         dynamic_image_size=data_args.dynamic_image_size, use_thumbnail=data_args.use_thumbnail,
         min_dynamic_patch=data_args.min_dynamic_patch, max_dynamic_patch=data_args.max_dynamic_patch,
         normalize_type=data_args.normalize_type)
+    
+    eval_dataset = build_eval_datasets(
+        data_args, tokenizer, tcs_loader, model, group_by_length=training_args.group_by_length,
+        dynamic_image_size=data_args.dynamic_image_size, use_thumbnail=data_args.use_thumbnail,
+        min_dynamic_patch=data_args.min_dynamic_patch, max_dynamic_patch=data_args.max_dynamic_patch,
+        normalize_type=data_args.normalize_type)
 
     def _freeze_params(module):
         for param in module.parameters():
@@ -817,7 +880,7 @@ def main():
         model=model,
         args=training_args,
         train_dataset=train_dataset if training_args.do_train else None,
-        eval_dataset=None,
+        eval_dataset=eval_dataset if training_args.do_eval else None,
         tokenizer=tokenizer,
         data_collator=concat_pad_data_collator
     )
