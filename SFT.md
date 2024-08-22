@@ -23,12 +23,12 @@ pip install flash-attn==2.3.6 --no-build-isolation
 训练前，将 `ui-dataset.zip` 中的内容解压到 `data/ui-dataset` 目录下
 
 ```bash
+cp <path-to-ui-dataset-zip> data/
 cd data/
-wget https://github.com/sjtuzc954/InternVL/releases/download/v0.2/ui-dataset.zip
 unzip ui-dataset.zip
 ```
 
-元数据和训练脚本已准备好，分别位于 `shell/data` 和 `shell/internvl2.0/2nd_finetune`，可根据需要修改（例如对于其他规模的模型，可仿照1B的脚本修改官方脚本）。
+元数据和训练脚本已准备好，分别位于 `shell/data` 和 `shell/internvl2.0/2nd_finetune`，可根据需要修改（目前ui-dataset只提供了1B模型的训练脚本。对于其他规模的模型，可仿照1B的脚本修改官方脚本）。
 
 预训练模型下载（以1B为例）：
 
@@ -55,7 +55,7 @@ cp pretrained/InternVL2-1B/*.py work_dirs/internvl_chat_v2_0/internvl2_1b_qwen2_
 
 ## 评估
 
-可以使用 `tensorboard` 工具查看训练过程中的 train/eval loss 曲线。
+可以使用 `tensorboard` 工具查看训练过程中的 train/eval loss 曲线，根据曲线调参。
 
 ```bash
 tensorboard --logdir ./work_dirs/internvl_chat_v2_0/internvl2_1b_qwen2_0_5b_dynamic_res_2nd_finetune_lora_ui --port 10097 --host 127.0.0.1

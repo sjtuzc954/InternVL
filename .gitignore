@@ -167,7 +167,7 @@ internvl_chat/work_dirs/
 internvl_chat/pretrained/
 internvl_chat/unittest/
 internvl_chat/data/
-internvl_chat/output.jpg
+internvl_chat/output*.jpg
 Husky2/*
 data_process/
 *distillation*
