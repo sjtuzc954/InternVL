@@ -167,7 +167,7 @@ internvl_chat/work_dirs/
 internvl_chat/pretrained/
 internvl_chat/unittest/
 internvl_chat/data/
-internvl_chat/dd/
+internvl_chat/shell/dd/
 internvl_chat/output*.jpg
 Husky2/*
 data_process/
