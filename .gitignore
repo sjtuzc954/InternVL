@@ -168,6 +168,8 @@ internvl_chat/pretrained/
 internvl_chat/unittest/
 internvl_chat/data/
 internvl_chat/shell/dd/
+internvl_chat/shell/data/data/
+internvl_chat/shell/data/ui-dataset/
 internvl_chat/output*.jpg
 Husky2/*
 data_process/

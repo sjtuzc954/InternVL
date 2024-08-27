@@ -22,6 +22,8 @@ fi
 # gradient accumulation steps: 2
 # total batch size: 16
 # epoch: 1
+
+export CUDA_VISIBLE_DEVICES=4, 5 
 torchrun \
   --nnodes=1 \
   --node_rank=0 \
