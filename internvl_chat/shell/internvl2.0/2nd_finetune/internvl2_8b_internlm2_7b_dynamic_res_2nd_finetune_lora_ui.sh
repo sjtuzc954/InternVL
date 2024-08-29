@@ -23,7 +23,7 @@ fi
 # total batch size: 16
 # epoch: 1
 
-export CUDA_VISIBLE_DEVICES=4, 5 
+export CUDA_VISIBLE_DEVICES = 6, 7
 torchrun \
   --nnodes=1 \
   --node_rank=0 \
