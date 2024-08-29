@@ -43,6 +43,7 @@ from transformers import (AutoConfig, AutoModelForCausalLM, AutoTokenizer,
 from transformers.trainer_utils import get_last_checkpoint
 from transformers.utils.logging import (enable_default_handler,
                                         enable_explicit_format, set_verbosity)
+from transformers import EarlyStoppingCallback
 
 # Apply necessary patches for the transformers library
 replace_llama_rmsnorm_with_fused_rmsnorm()
@@ -203,6 +204,9 @@ class DataTrainingArguments:
     normalize_type: Optional[str] = field(
         default='imagenet',
         metadata={'help': 'The normalize type for the image. Default is imagenet.'},
+    )
+    early_stopping_patience: Optional[int] = field(
+        default=3,
     )
 
 
@@ -876,13 +880,16 @@ def main():
     if model_args.use_custom_trainer:
         replace_create_optimizer()
 
+    early_stopping = EarlyStoppingCallback(early_stopping_patience=data_args.early_stopping_patience)
+    
     trainer = Trainer(
         model=model,
         args=training_args,
         train_dataset=train_dataset if training_args.do_train else None,
         eval_dataset=eval_dataset if training_args.do_eval else None,
         tokenizer=tokenizer,
-        data_collator=concat_pad_data_collator
+        data_collator=concat_pad_data_collator,
+        callbacks=[early_stopping]
     )
 
     # Training
