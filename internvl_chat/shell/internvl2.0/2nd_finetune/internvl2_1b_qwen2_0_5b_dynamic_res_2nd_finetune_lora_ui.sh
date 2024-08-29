@@ -46,13 +46,14 @@ torchrun \
   --vision_select_layer -1 \
   --dataloader_num_workers 4 \
   --bf16 True \
-  --num_train_epochs 6 \
+  --num_train_epochs 20 \
   --per_device_train_batch_size ${PER_DEVICE_BATCH_SIZE} \
   --gradient_accumulation_steps ${GRADIENT_ACC} \
   --evaluation_strategy "epoch" \
   --do_eval True \
-  --save_strategy "steps" \
-  --save_steps 200 \
+  --load_best_model_at_end True \
+  --save_strategy "epoch" \
+  --early_stopping_patience 3 \
   --save_total_limit 1 \
   --learning_rate 4e-5 \
   --weight_decay 0.01 \
