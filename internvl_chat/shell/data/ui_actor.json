@@ -1,0 +1,9 @@
+{
+    "ui-dataset": {
+        "root": "data/ui_actor",
+        "annotation": "data/ui_actor/annotations/ui_actor_train.jsonl",
+        "data_augment": false,
+        "repeat_time": 1,
+        "length": 1408
+    }
+}

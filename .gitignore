@@ -172,3 +172,5 @@ internvl_chat/output*.jpg
 Husky2/*
 data_process/
 *distillation*
+
+internvl_chat/eval/ui/results/

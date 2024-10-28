@@ -82,7 +82,7 @@ def load_image(image_file, input_size=448, max_num=12):
 
 # If you have an 80G A100 GPU, you can put the entire model on a single GPU.
 # Otherwise, you need to load a model using multiple GPUs, please refer to the `Multiple GPUs` section.
-path = 'work_dirs/internvl_chat_v2_0/internvl2_8b_internlm2_7b_dynamic_res_2nd_finetune_lora_ui_merge'
+path = 'work_dirs/internvl_chat_v2_0/internvl2_1b_qwen2_0_5b_dynamic_res_2nd_finetune_lora_ui_actor_merge'
 # path = 'pretrained/InternVL2-1B'
 model = AutoModel.from_pretrained(
     path,
@@ -92,7 +92,7 @@ model = AutoModel.from_pretrained(
 tokenizer = AutoTokenizer.from_pretrained(path, trust_remote_code=True, use_fast=False)
 
 # set the max number of tiles in `max_num`
-img_path = './data/ui-dataset/train/OnePlus_Communication_Community_1_5.jpg'
+img_path = './data/ui_actor/val/OnePlus_Communication_Instant-Messaging_5_1.jpg'
 pixel_values = load_image(img_path, max_num=12).to(torch.bfloat16).cuda()
 generation_config = dict(max_new_tokens=1024, do_sample=False)
 
@@ -106,9 +106,10 @@ generation_config = dict(max_new_tokens=1024, do_sample=False)
 # print(f'User: {question}\nAssistant: {response}')
 
 # single-image single-round conversation (单图单轮对话)
-question = "<image>\n你是一个手机助手，手机当前打开的应用为\"知乎\"。现在你的目标是\"在知乎上提问\"如何训练神经网络?\"\"，你的历史操作为[launch app \"知乎\", click icon \"+\", click button \"提问\", input \"如何训练神经网络?\" into input box with placeholder \"输入问题并以问号结尾(必填)\"]，请基于这张屏幕图片，输出你的下一步操作。若这是最后一步，额外输出\"done\"。"
+question = "<image>\n请根据屏幕截图，执行任务：点击微信app图标"
 response = model.chat(tokenizer, pixel_values, question, generation_config)
 print(f'User: {question}\nAssistant: {response}')
+exit(0)
 i1, i2 = response.find("[["), response.find("]]")
 if i1 != -1 and i2 != -1:
     coord_substr = response[i1 + 2 : i2]

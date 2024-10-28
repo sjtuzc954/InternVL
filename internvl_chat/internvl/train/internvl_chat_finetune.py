@@ -619,6 +619,8 @@ def build_eval_datasets(
     max_dynamic_patch=12,
     normalize_type='imagenet',
 ):
+    if data_args.meta_path_eval == None:
+        return None
     datasets = []
     lengths = []
     ds_collections = json.loads(open(data_args.meta_path_eval).read())
@@ -889,7 +891,7 @@ def main():
         eval_dataset=eval_dataset if training_args.do_eval else None,
         tokenizer=tokenizer,
         data_collator=concat_pad_data_collator,
-        callbacks=[early_stopping]
+        callbacks=[early_stopping] if training_args.do_eval else None,
     )
 
     # Training
