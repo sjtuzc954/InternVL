@@ -92,7 +92,7 @@ model = AutoModel.from_pretrained(
 tokenizer = AutoTokenizer.from_pretrained(path, trust_remote_code=True, use_fast=False)
 
 # set the max number of tiles in `max_num`
-img_path = './data/ui_actor/val/OnePlus_Communication_Instant-Messaging_5_1.jpg'
+img_path = './data/ui_actor/val/OnePlus_Communication_Instant-Messaging_5_2.jpg'
 pixel_values = load_image(img_path, max_num=12).to(torch.bfloat16).cuda()
 generation_config = dict(max_new_tokens=1024, do_sample=False)
 
@@ -106,7 +106,7 @@ generation_config = dict(max_new_tokens=1024, do_sample=False)
 # print(f'User: {question}\nAssistant: {response}')
 
 # single-image single-round conversation (单图单轮对话)
-question = "<image>\n请根据屏幕截图，执行任务：点击微信app图标"
+question = "<image>\n请根据屏幕截图，执行任务：点击底部导航栏的“发现”选项"
 response = model.chat(tokenizer, pixel_values, question, generation_config)
 print(f'User: {question}\nAssistant: {response}')
 exit(0)

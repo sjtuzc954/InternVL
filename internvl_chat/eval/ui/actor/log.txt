@@ -1,0 +1,982 @@
+User: <image>
+请根据屏幕截图，执行任务：点击知乎app图标
+Assistant: 操作：点击
+参数：[481, 472]
+User: <image>
+请根据屏幕截图，执行任务：点击搜索框
+Assistant: 操作：点击
+参数：[425, 132]
+User: <image>
+请根据屏幕截图，执行任务：输入“金融科技”
+Assistant: 操作：输入
+参数：金融科技
+User: <image>
+请根据屏幕截图，执行任务：点击搜索按钮
+Assistant: 操作：点击
+参数：[897, 67]
+User: <image>
+请根据屏幕截图，执行任务：横向滑动搜索结果选项卡
+Assistant: 操作：滑动
+参数：[704, 130] -> [83, 130]
+User: <image>
+请根据屏幕截图，执行任务：点击“话题”按钮
+Assistant: 操作：点击
+参数：[306, 125]
+User: <image>
+请根据屏幕截图，执行任务：点击“金融科技”话题条目
+Assistant: 操作：点击
+参数：[255, 200]
+User: <image>
+请根据屏幕截图，执行任务：点击关注按钮
+Assistant: 操作：点击
+参数：[827, 133]
+User: <image>
+请根据屏幕截图，执行任务：点击第三条回答右下角的关闭按钮
+Assistant: 操作：点击
+参数：[922, 830]
+User: <image>
+请根据屏幕截图，执行任务：点击'屏蔽这个内容'选项
+Assistant: 操作：点击
+参数：[255, 607]
+User: <image>
+请根据屏幕截图，执行任务：点击知乎app图标
+Assistant: 操作：点击
+参数：[491, 471]
+User: <image>
+请根据屏幕截图，执行任务：点击搜索框
+Assistant: 操作：点击
+参数：[357, 130]
+User: <image>
+请根据屏幕截图，执行任务：在搜索框中输入“如何选择职业道路”
+Assistant: 操作：输入
+参数：如何选择职业道路
+User: <image>
+请根据屏幕截图，执行任务：点击搜索按钮
+Assistant: 操作：点击
+参数：[887, 66]
+User: <image>
+请根据屏幕截图，执行任务：点击问题标题
+Assistant: 操作：点击
+参数：[336, 221]
+User: <image>
+请根据屏幕截图，执行任务：点击“写回答”按钮
+Assistant: 操作：点击
+参数：[491, 941]
+User: <image>
+请根据屏幕截图，执行任务：点击回答输入框
+Assistant: 操作：点击
+参数：[235, 225]
+User: <image>
+请根据屏幕截图，执行任务：输入回答内容“找到自己的喜好，考虑职业发展前景”
+Assistant: 操作：输入
+参数：找到自己的喜好，考虑职业发展前景
+User: <image>
+请根据屏幕截图，执行任务：点击“发布”按钮
+Assistant: 操作：点击
+参数：[883, 70]
+User: <image>
+请根据屏幕截图，执行任务：点击网易邮箱app图标
+Assistant: 操作：点击
+参数：[120, 482]
+User: <image>
+请根据屏幕截图，执行任务：点击标题为“会议确认”的邮件
+Assistant: 操作：点击
+参数：[265, 341]
+User: <image>
+请根据屏幕截图，执行任务：点击回复图标
+Assistant: 操作：点击
+参数：[192, 929]
+User: <image>
+请根据屏幕截图，执行任务：输入文字“好的”
+Assistant: 操作：输入
+参数：好的
+User: <image>
+请根据屏幕截图，执行任务：点击发送按钮
+Assistant: 操作：点击
+参数：[851, 305]
+User: <image>
+请根据屏幕截图，执行任务：点击网易邮箱app图标
+Assistant: 操作：点击
+参数：[120, 481]
+User: <image>
+请根据屏幕截图，执行任务：点击“写邮件”按钮
+Assistant: 操作：点击
+参数：[771, 851]
+User: <image>
+请根据屏幕截图，执行任务：在“收件人”输入框中输入tom@163.com
+Assistant: 操作：输入
+参数：tom@163.com
+User: <image>
+请根据屏幕截图，执行任务：点击“主题”输入框
+Assistant: 操作：点击
+参数：[285, 227]
+User: <image>
+请根据屏幕截图，执行任务：在“主题”输入框中输入活动通知
+Assistant: 操作：输入
+参数：写正式邮件，试试 AI 手机智能写信，主题，活动通知
+User: <image>
+请根据屏幕截图，执行任务：点击邮件正文输入框
+Assistant: 操作：点击
+参数：[252, 279]
+User: <image>
+请根据屏幕截图，执行任务：在邮件正文输入框中输入以下是活动安排
+Assistant: 操作：输入
+参数：活动安排
+User: <image>
+请根据屏幕截图，执行任务：点击发送按钮
+Assistant: 操作：点击
+参数：[881, 67]
+User: <image>
+请根据屏幕截图，执行任务：点击微信app图标
+Assistant: 操作：点击
+参数：[501, 482]
+User: <image>
+请根据屏幕截图，执行任务：点击底部导航栏的“我”选项
+Assistant: 操作：点击
+参数：[887, 947]
+User: <image>
+请根据屏幕截图，执行任务：点击“服务”选项
+Assistant: 操作：点击
+参数：[221, 307]
+User: <image>
+请根据屏幕截图，执行任务：点击“酒店民宿”服务图标
+Assistant: 操作：点击
+参数：[771, 867]
+User: <image>
+请根据屏幕截图，执行任务：点击微信app图标
+Assistant: 操作：点击
+参数：[501, 482]
+User: <image>
+请根据屏幕截图，执行任务：点击顶部的放大镜图标
+Assistant: 操作：点击
+参数：[300, 63]
+User: <image>
+请根据屏幕截图，执行任务：在搜索输入框中输入“豆瓣”
+Assistant: 操作：输入
+参数：豆瓣
+User: <image>
+请根据屏幕截图，执行任务：点击第一个搜索建议“豆瓣”
+Assistant: 操作：点击
+参数：[162, 229]
+User: <image>
+请根据屏幕截图，执行任务：点击“豆瓣 - 公众号”条目
+Assistant: 操作：点击
+参数：[491, 341]
+User: <image>
+请根据屏幕截图，执行任务：点击“关注公众号”按钮
+Assistant: 操作：点击
+参数：[491, 307]
+User: <image>
+请根据屏幕截图，执行任务：点击微信app图标
+Assistant: 操作：点击
+参数：[672, 477]
+User: <image>
+请根据屏幕截图，执行任务：点击底部导航栏的“发现”选项
+Assistant: 操作：点击
+参数：[601, 939]
+User: <image>
+请根据屏幕截图，执行任务：点击“朋友圈”选项
+Assistant: 操作：点击
+参数：[215, 135]
+User: <image>
+请根据屏幕截图，执行任务：长按朋友圈界面的相机图标
+Assistant: 操作：长按
+参数：[687, 299]
+User: <image>
+请根据屏幕截图，执行任务：输入文字“工作加油”
+Assistant: 操作：输入
+参数：工作加油
+User: <image>
+请根据屏幕截图，执行任务：点击右上角的“发表”按钮
+Assistant: 操作：点击
+参数：[871, 67]
+User: <image>
+请根据屏幕截图，执行任务：点击微博app图标
+Assistant: 操作：点击
+参数：[822, 361]
+User: <image>
+请根据屏幕截图，执行任务：点击发现图标
+Assistant: 操作：点击
+参数：[133, 947]
+User: <image>
+请根据屏幕截图，执行任务：点击搜索框
+Assistant: 操作：点击
+参数：[355, 67]
+User: <image>
+请根据屏幕截图，执行任务：输入北京大学
+Assistant: 操作：输入
+参数：北京大学
+User: <image>
+请根据屏幕截图，执行任务：点击搜索按钮
+Assistant: 操作：点击
+参数：[887, 67]
+User: <image>
+请根据屏幕截图，执行任务：点击搜索结果中“北京大学”的头像
+Assistant: 操作：点击
+参数：[257, 309]
+User: <image>
+请根据屏幕截图，执行任务：点击最新微博的内容
+Assistant: 操作：点击
+参数：[329, 491]
+User: <image>
+请根据屏幕截图，执行任务：点击转发按钮
+Assistant: 操作：点击
+参数：[10, 729]
+User: <image>
+请根据屏幕截图，执行任务：点击发送按钮
+Assistant: 操作：点击
+参数：[883, 67]
+User: <image>
+请根据屏幕截图，执行任务：点击微博app图标
+Assistant: 操作：点击
+参数：[851, 240]
+User: <image>
+请根据屏幕截图，执行任务：点击右上角的加号按钮
+Assistant: 操作：点击
+参数：[927, 68]
+User: <image>
+请根据屏幕截图，执行任务：点击写微博选项
+Assistant: 操作：点击
+参数：[701, 135]
+User: <image>
+请根据屏幕截图，执行任务：输入文字“我爱编程”
+Assistant: 操作：输入
+参数：我爱编程
+User: <image>
+请根据屏幕截图，执行任务：点击发送按钮
+Assistant: 操作：点击
+参数：[883, 67]
+User: <image>
+请根据屏幕截图，执行任务：点击美团app图标
+Assistant: 操作：点击
+参数：[672, 267]
+User: <image>
+请根据屏幕截图，执行任务：点击搜索框
+Assistant: 操作：点击
+参数：[355, 130]
+User: <image>
+请根据屏幕截图，执行任务：输入“奈雪的茶”
+Assistant: 操作：输入
+参数：奈雪的茶
+User: <image>
+请根据屏幕截图，执行任务：点击搜索按钮
+Assistant: 操作：点击
+参数：[867, 64]
+User: <image>
+请根据屏幕截图，执行任务：点击“奈雪的茶（上海闵行吴泾宝龙店）”条目
+Assistant: 操作：点击
+参数：[398, 472]
+User: <image>
+请根据屏幕截图，执行任务：点击美团app图标
+Assistant: 操作：点击
+参数：[672, 240]
+User: <image>
+请根据屏幕截图，执行任务：点击“看病买药”图标
+Assistant: 操作：点击
+参数：[804, 297]
+User: <image>
+请根据屏幕截图，执行任务：点击搜索框
+Assistant: 操作：点击
+参数：[425, 130]
+User: <image>
+请根据屏幕截图，执行任务：输入“莲花清瘟胶囊”
+Assistant: 操作：输入
+参数：莲花清瘟胶囊
+User: <image>
+请根据屏幕截图，执行任务：点击搜索按钮
+Assistant: 操作：点击
+参数：[877, 66]
+User: <image>
+请根据屏幕截图，执行任务：点击价格为3.9元的“莲花清瘟胶囊”商品条目
+Assistant: 操作：点击
+参数：[306, 325]
+User: <image>
+请根据屏幕截图，执行任务：点击“马上抢”按钮
+Assistant: 操作：点击
+参数：[804, 941]
+User: <image>
+请根据屏幕截图，执行任务：点击“饿了么”应用程序图标
+Assistant: 操作：点击
+参数：[822, 482]
+User: <image>
+请根据屏幕截图，执行任务：点击搜索栏
+Assistant: 操作：点击
+参数：[357, 133]
+User: <image>
+请根据屏幕截图，执行任务：输入“汉堡王”
+Assistant: 操作：输入
+参数：汉堡王
+User: <image>
+请根据屏幕截图，执行任务：点击搜索按钮
+Assistant: 操作：点击
+参数：[861, 65]
+User: <image>
+请根据屏幕截图，执行任务：点击“汉堡王（上海吴泾满天星生活广场店）”选项
+Assistant: 操作：点击
+参数：[300, 240]
+User: <image>
+请根据屏幕截图，执行任务：向上滑动店铺页面
+Assistant: 操作：滑动
+参数：[501, 729] -> [491, 229]
+User: <image>
+请根据屏幕截图，执行任务：点击“明星皇堡单人餐4件套”商品
+Assistant: 操作：点击
+参数：[600, 720]
+User: <image>
+请根据屏幕截图，执行任务：点击“加入购物车”按钮
+Assistant: 操作：点击
+参数：[811, 600]
+User: <image>
+请根据屏幕截图，执行任务：点击“去结算”按钮
+Assistant: 操作：点击
+参数：[826, 947]
+User: <image>
+请根据屏幕截图，执行任务：点击淘宝app图标
+Assistant: 操作：点击
+参数：[300, 238]
+User: <image>
+请根据屏幕截图，执行任务：点击搜索框
+Assistant: 操作：点击
+参数：[355, 123]
+User: <image>
+请根据屏幕截图，执行任务：输入“百年孤独”作为搜索关键词
+Assistant: 操作：输入
+参数：百年孤独, 搜索
+User: <image>
+请根据屏幕截图，执行任务：点击搜索按钮
+Assistant: 操作：点击
+参数：[861, 67]
+User: <image>
+请根据屏幕截图，执行任务：点击第一个商品条目
+Assistant: 操作：点击
+参数：[251, 541]
+User: <image>
+请根据屏幕截图，执行任务：点击“领券购买”按钮
+Assistant: 操作：点击
+参数：[826, 937]
+User: <image>
+请根据屏幕截图，执行任务：点击“立即支付”按钮
+Assistant: 操作：点击
+参数：[501, 941]
+User: <image>
+请根据屏幕截图，执行任务：点击商品“LEGO乐高我的世界系列2024新款”
+Assistant: 操作：点击
+参数：[297, 851]
+User: <image>
+请根据屏幕截图，执行任务：向上滑动页面
+Assistant: 操作：滑动
+参数：[501, 865] -> [500, 365]
+User: <image>
+请根据屏幕截图，执行任务：点击分享图标
+Assistant: 操作：点击
+参数：[123, 72]
+User: <image>
+请根据屏幕截图，执行任务：点击携程旅行app图标
+Assistant: 操作：点击
+参数：[122, 481]
+User: <image>
+请根据屏幕截图，执行任务：点击火车票选项
+Assistant: 操作：点击
+参数：[602, 200]
+User: <image>
+请根据屏幕截图，执行任务：点击目的地“北京”位置
+Assistant: 操作：点击
+参数：[851, 391]
+User: <image>
+请根据屏幕截图，执行任务：点击热门去处“杭州”
+Assistant: 操作：点击
+参数：[192, 327]
+User: <image>
+请根据屏幕截图，执行任务：点击查询按钮
+Assistant: 操作：点击
+参数：[491, 485]
+User: <image>
+请根据屏幕截图，执行任务：点击百度地图app图标
+Assistant: 操作：点击
+参数：[288, 482]
+User: <image>
+请根据屏幕截图，执行任务：点击搜索栏文本框
+Assistant: 操作：点击
+参数：[415, 130]
+User: <image>
+请根据屏幕截图，执行任务：在搜索框中输入“中国石油”
+Assistant: 操作：输入
+参数：中国石油
+User: <image>
+请根据屏幕截图，执行任务：点击搜索按钮
+Assistant: 操作：点击
+参数：[891, 70]
+User: <image>
+请根据屏幕截图，执行任务：点击“智能推荐”筛选选项
+Assistant: 操作：点击
+参数：[401, 125]
+User: <image>
+请根据屏幕截图，执行任务：点击“距离优先”选项
+Assistant: 操作：点击
+参数：[221, 221]
+User: <image>
+请根据屏幕截图，执行任务：点击第一个搜索结果条目
+Assistant: 操作：点击
+参数：[244, 322]
+User: <image>
+请根据屏幕截图，执行任务：点击导航按钮
+Assistant: 操作：点击
+参数：[605, 941]
+User: <image>
+请根据屏幕截图，执行任务：点击高德地图应用图标
+Assistant: 操作：点击
+参数：[692, 477]
+User: <image>
+请根据屏幕截图，执行任务：点击搜索框内的文字部分
+Assistant: 操作：点击
+参数：[417, 597]
+User: <image>
+请根据屏幕截图，执行任务：在搜索框中输入“城隍庙”
+Assistant: 操作：输入
+参数：城隍庙
+User: <image>
+请根据屏幕截图，执行任务：点击第一个搜索结果中的“城隍庙”条目
+Assistant: 操作：点击
+参数：[230, 229]
+User: <image>
+请根据屏幕截图，执行任务：点击页面底部的导航按钮
+Assistant: 操作：点击
+参数：[625, 941]
+User: <image>
+请根据屏幕截图，执行任务：点击网易云音乐app图标
+Assistant: 操作：点击
+参数：[113, 607]
+User: <image>
+请根据屏幕截图，执行任务：点击底部导航栏的“我的”按钮
+Assistant: 操作：点击
+参数：[895, 941]
+User: <image>
+请根据屏幕截图，执行任务：点击“本地”选项
+Assistant: 操作：点击
+参数：[133, 427]
+User: <image>
+请根据屏幕截图，执行任务：点击网易云音乐应用图标
+Assistant: 操作：点击
+参数：[113, 607]
+User: <image>
+请根据屏幕截图，执行任务：点击搜索框
+Assistant: 操作：点击
+参数：[424, 72]
+User: <image>
+请根据屏幕截图，执行任务：输入“雨一直下”
+Assistant: 操作：输入
+参数：雨一直下
+User: <image>
+请根据屏幕截图，执行任务：点击搜索按钮
+Assistant: 操作：点击
+参数：[917, 70]
+User: <image>
+请根据屏幕截图，执行任务：点击第一个搜索结果“雨一直下 - 张宇”的播放按钮
+Assistant: 操作：点击
+参数：[221, 477]
+User: <image>
+请根据屏幕截图，执行任务：点击评论按钮
+Assistant: 操作：点击
+参数：[817, 929]
+User: <image>
+请根据屏幕截图，执行任务：点击抖音app图标
+Assistant: 操作：点击
+参数：[685, 607]
+User: <image>
+请根据屏幕截图，执行任务：点击导航栏中的“团购”选项
+Assistant: 操作：点击
+参数：[491, 63]
+User: <image>
+请根据屏幕截图，执行任务：点击搜索框
+Assistant: 操作：点击
+参数：[355, 123]
+User: <image>
+请根据屏幕截图，执行任务：在搜索框中输入“桌球”
+Assistant: 操作：输入
+参数：桌球
+User: <image>
+请根据屏幕截图，执行任务：点击右上角的“搜索”按钮
+Assistant: 操作：点击
+参数：[877, 63]
+User: <image>
+请根据屏幕截图，执行任务：点击抖音app图标
+Assistant: 操作：点击
+参数：[685, 604]
+User: <image>
+请根据屏幕截图，执行任务：点击底部导航栏的“我”图标
+Assistant: 操作：点击
+参数：[883, 947]
+User: <image>
+请根据屏幕截图，执行任务：点击“抖音商城”入口图标
+Assistant: 操作：点击
+参数：[110, 491]
+User: <image>
+请根据屏幕截图，执行任务：点击搜索框
+Assistant: 操作：点击
+参数：[355, 123]
+User: <image>
+请根据屏幕截图，执行任务：输入“RTX 4090”
+Assistant: 操作：输入
+参数：RTX 4090
+User: <image>
+请根据屏幕截图，执行任务：点击“搜索”按钮
+Assistant: 操作：点击
+参数：[871, 66]
+User: <image>
+请根据屏幕截图，执行任务：点击“华硕 TUF RTX 4090”商品条目
+Assistant: 操作：点击
+参数：[251, 481]
+User: <image>
+请根据屏幕截图，执行任务：点击“加入购物车”按钮
+Assistant: 操作：点击
+参数：[795, 941]
+User: <image>
+请根据屏幕截图，执行任务：点击bilibili app图标
+Assistant: 操作：点击
+参数：[672, 471]
+User: <image>
+请根据屏幕截图，执行任务：点击搜索框
+Assistant: 操作：点击
+参数：[411, 79]
+User: <image>
+请根据屏幕截图，执行任务：输入“红烧肉做法”
+Assistant: 操作：输入
+参数：红烧肉做法
+User: <image>
+请根据屏幕截图，执行任务：点击搜索按钮
+Assistant: 操作：点击
+参数：[917, 72]
+User: <image>
+请根据屏幕截图，执行任务：点击第一个搜索结果的视频
+Assistant: 操作：点击
+参数：[237, 230]
+User: <image>
+请根据屏幕截图，执行任务：点击夸克浏览器app图标
+Assistant: 操作：点击
+参数：[113, 729]
+User: <image>
+请根据屏幕截图，执行任务：点击搜索框
+Assistant: 操作：点击
+参数：[255, 422]
+User: <image>
+请根据屏幕截图，执行任务：在搜索框中输入“steam官网”
+Assistant: 操作：输入
+参数：steam官网
+User: <image>
+请根据屏幕截图，执行任务：点击搜索按钮
+Assistant: 操作：点击
+参数：[702, 499]
+User: <image>
+请根据屏幕截图，执行任务：点击第一个搜索结果的链接
+Assistant: 操作：点击
+参数：[217, 234]
+User: <image>
+请根据屏幕截图，执行任务：点击Edge浏览器图标
+Assistant: 操作：点击
+参数：[811, 447]
+User: <image>
+请根据屏幕截图，执行任务：点击地址栏
+Assistant: 操作：点击
+参数：[305, 230]
+User: <image>
+请根据屏幕截图，执行任务：在地址栏中输入“baidu.com”
+Assistant: 操作：输入
+参数：baidu.com
+User: <image>
+请根据屏幕截图，执行任务：点击“确定”按钮
+Assistant: 操作：点击
+参数：[883, 910]
+User: <image>
+请根据屏幕截图，执行任务：点击‘保险购买情况’文件图标
+Assistant: 操作：点击
+参数：[286, 234]
+User: <image>
+请根据屏幕截图，执行任务：点击单元格A2
+Assistant: 操作：点击
+参数：[204, 198]
+User: <image>
+请根据屏幕截图，执行任务：再次点击单元格A2
+Assistant: 操作：再次点击
+参数：[182, 290]
+User: <image>
+请根据屏幕截图，执行任务：点击‘编辑’按钮
+Assistant: 操作：点击
+参数：[142, 231]
+User: <image>
+请根据屏幕截图，执行任务：输入‘Bob’
+Assistant: 操作：输入
+参数：Bob
+User: <image>
+请根据屏幕截图，执行任务：点击B2单元格
+Assistant: 操作：点击
+参数：[302, 193]
+User: <image>
+请根据屏幕截图，执行任务：输入‘未购买’
+Assistant: 操作：输入
+参数：未购买
+User: <image>
+请根据屏幕截图，执行任务：点击键盘上的确认按钮
+Assistant: 操作：点击
+参数：[911, 863]
+User: <image>
+请根据屏幕截图，执行任务：点击返回按钮
+Assistant: 操作：点击
+参数：[60, 934]
+User: <image>
+请根据屏幕截图，执行任务：点击WPS Office应用图标
+Assistant: 操作：点击
+参数：[120, 239]
+User: <image>
+请根据屏幕截图，执行任务：点击右下角的红色加号按钮
+Assistant: 操作：点击
+参数：[861, 836]
+User: <image>
+请根据屏幕截图，执行任务：点击“文字”图标
+Assistant: 操作：点击
+参数：[132, 625]
+User: <image>
+请根据屏幕截图，执行任务：点击“空白文档”按钮
+Assistant: 操作：点击
+参数：[186, 153]
+User: <image>
+请根据屏幕截图，执行任务：输入文字“锻炼计划”
+Assistant: 操作：输入
+参数：锻炼计划
+User: <image>
+请根据屏幕截图，执行任务：点击保存图标
+Assistant: 操作：点击
+参数：[255, 62]
+User: <image>
+请根据屏幕截图，执行任务：点击保存确认按钮
+Assistant: 操作：点击
+参数：[701, 231]
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击知乎app图标
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击搜索框
+Evaluating response for <image>
+请根据屏幕截图，执行任务：输入“金融科技”
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击搜索按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：横向滑动搜索结果选项卡
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击“话题”按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击“金融科技”话题条目
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击关注按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击第三条回答右下角的关闭按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击'屏蔽这个内容'选项
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击知乎app图标
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击搜索框
+Evaluating response for <image>
+请根据屏幕截图，执行任务：在搜索框中输入“如何选择职业道路”
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击搜索按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击问题标题
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击“写回答”按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击回答输入框
+Evaluating response for <image>
+请根据屏幕截图，执行任务：输入回答内容“找到自己的喜好，考虑职业发展前景”
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击“发布”按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击网易邮箱app图标
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击标题为“会议确认”的邮件
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击回复图标
+Evaluating response for <image>
+请根据屏幕截图，执行任务：输入文字“好的”
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击发送按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击网易邮箱app图标
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击“写邮件”按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：在“收件人”输入框中输入tom@163.com
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击“主题”输入框
+Evaluating response for <image>
+请根据屏幕截图，执行任务：在“主题”输入框中输入活动通知
+Input mismatch. Expected: 活动通知, Actual: 写正式邮件，试试 AI 手机智能写信，主题，活动通知
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击邮件正文输入框
+Evaluating response for <image>
+请根据屏幕截图，执行任务：在邮件正文输入框中输入以下是活动安排
+Input mismatch. Expected: 以下是活动安排, Actual: 活动安排
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击发送按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击微信app图标
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击底部导航栏的“我”选项
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击“服务”选项
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击“酒店民宿”服务图标
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击微信app图标
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击顶部的放大镜图标
+Evaluating response for <image>
+请根据屏幕截图，执行任务：在搜索输入框中输入“豆瓣”
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击第一个搜索建议“豆瓣”
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击“豆瓣 - 公众号”条目
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击“关注公众号”按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击微信app图标
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击底部导航栏的“发现”选项
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击“朋友圈”选项
+Evaluating response for <image>
+请根据屏幕截图，执行任务：长按朋友圈界面的相机图标
+Evaluating response for <image>
+请根据屏幕截图，执行任务：输入文字“工作加油”
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击右上角的“发表”按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击微博app图标
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击发现图标
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击搜索框
+Evaluating response for <image>
+请根据屏幕截图，执行任务：输入北京大学
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击搜索按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击搜索结果中“北京大学”的头像
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击最新微博的内容
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击转发按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击发送按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击微博app图标
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击右上角的加号按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击写微博选项
+Evaluating response for <image>
+请根据屏幕截图，执行任务：输入文字“我爱编程”
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击发送按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击美团app图标
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击搜索框
+Evaluating response for <image>
+请根据屏幕截图，执行任务：输入“奈雪的茶”
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击搜索按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击“奈雪的茶（上海闵行吴泾宝龙店）”条目
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击美团app图标
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击“看病买药”图标
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击搜索框
+Evaluating response for <image>
+请根据屏幕截图，执行任务：输入“莲花清瘟胶囊”
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击搜索按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击价格为3.9元的“莲花清瘟胶囊”商品条目
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击“马上抢”按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击“饿了么”应用程序图标
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击搜索栏
+Evaluating response for <image>
+请根据屏幕截图，执行任务：输入“汉堡王”
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击搜索按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击“汉堡王（上海吴泾满天星生活广场店）”选项
+Evaluating response for <image>
+请根据屏幕截图，执行任务：向上滑动店铺页面
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击“明星皇堡单人餐4件套”商品
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击“加入购物车”按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击“去结算”按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击淘宝app图标
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击搜索框
+Evaluating response for <image>
+请根据屏幕截图，执行任务：输入“百年孤独”作为搜索关键词
+Input mismatch. Expected: 百年孤独, Actual: 百年孤独, 搜索
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击搜索按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击第一个商品条目
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击“领券购买”按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击“立即支付”按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击商品“LEGO乐高我的世界系列2024新款”
+Evaluating response for <image>
+请根据屏幕截图，执行任务：向上滑动页面
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击分享图标
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击携程旅行app图标
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击火车票选项
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击目的地“北京”位置
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击热门去处“杭州”
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击查询按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击百度地图app图标
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击搜索栏文本框
+Evaluating response for <image>
+请根据屏幕截图，执行任务：在搜索框中输入“中国石油”
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击搜索按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击“智能推荐”筛选选项
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击“距离优先”选项
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击第一个搜索结果条目
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击导航按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击高德地图应用图标
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击搜索框内的文字部分
+Evaluating response for <image>
+请根据屏幕截图，执行任务：在搜索框中输入“城隍庙”
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击第一个搜索结果中的“城隍庙”条目
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击页面底部的导航按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击网易云音乐app图标
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击底部导航栏的“我的”按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击“本地”选项
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击网易云音乐应用图标
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击搜索框
+Evaluating response for <image>
+请根据屏幕截图，执行任务：输入“雨一直下”
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击搜索按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击第一个搜索结果“雨一直下 - 张宇”的播放按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击评论按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击抖音app图标
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击导航栏中的“团购”选项
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击搜索框
+Evaluating response for <image>
+请根据屏幕截图，执行任务：在搜索框中输入“桌球”
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击右上角的“搜索”按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击抖音app图标
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击底部导航栏的“我”图标
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击“抖音商城”入口图标
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击搜索框
+Evaluating response for <image>
+请根据屏幕截图，执行任务：输入“RTX 4090”
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击“搜索”按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击“华硕 TUF RTX 4090”商品条目
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击“加入购物车”按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击bilibili app图标
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击搜索框
+Evaluating response for <image>
+请根据屏幕截图，执行任务：输入“红烧肉做法”
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击搜索按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击第一个搜索结果的视频
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击夸克浏览器app图标
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击搜索框
+Evaluating response for <image>
+请根据屏幕截图，执行任务：在搜索框中输入“steam官网”
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击搜索按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击第一个搜索结果的链接
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击Edge浏览器图标
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击地址栏
+Evaluating response for <image>
+请根据屏幕截图，执行任务：在地址栏中输入“baidu.com”
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击“确定”按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击‘保险购买情况’文件图标
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击单元格A2
+Evaluating response for <image>
+请根据屏幕截图，执行任务：再次点击单元格A2
+Action mismatch. Expected: 点击, Actual: 再次点击
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击‘编辑’按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：输入‘Bob’
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击B2单元格
+Evaluating response for <image>
+请根据屏幕截图，执行任务：输入‘未购买’
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击键盘上的确认按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击返回按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击WPS Office应用图标
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击右下角的红色加号按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击“文字”图标
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击“空白文档”按钮
+Evaluating response for <image>
+请根据屏幕截图，执行任务：输入文字“锻炼计划”
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击保存图标
+Evaluating response for <image>
+请根据屏幕截图，执行任务：点击保存确认按钮

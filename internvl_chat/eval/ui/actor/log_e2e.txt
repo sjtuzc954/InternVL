@@ -1,0 +1,998 @@
+User: <image>
+请根据屏幕截图，输出“在知乎关注话题“金融科技””的下一步操作
+Assistant: 操作：点击
+参数：[672, 428]
+User: <image>
+请根据屏幕截图，输出“在知乎关注话题“金融科技””的下一步操作
+Assistant: 操作：点击
+参数：[185, 866]
+User: <image>
+请根据屏幕截图，输出“在知乎关注话题“金融科技””的下一步操作
+Assistant: 操作：输入
+参数：金融科技
+User: <image>
+请根据屏幕截图，输出“在知乎关注话题“金融科技””的下一步操作
+Assistant: 操作：点击
+参数：[902, 66]
+User: <image>
+请根据屏幕截图，输出“在知乎关注话题“金融科技””的下一步操作
+Assistant: 操作：点击
+参数：[385, 129]
+User: <image>
+请根据屏幕截图，输出“在知乎关注话题“金融科技””的下一步操作
+Assistant: 操作：点击
+参数：[385, 129]
+User: <image>
+请根据屏幕截图，输出“在知乎关注话题“金融科技””的下一步操作
+Assistant: 操作：点击
+参数：[245, 188]
+User: <image>
+请根据屏幕截图，输出“在知乎关注话题“金融科技””的下一步操作
+Assistant: 操作：点击
+参数：[245, 129]
+User: <image>
+请根据屏幕截图，输出“屏蔽知乎首页第三条回答”的下一步操作
+Assistant: 操作：点击
+参数：[937, 419]
+User: <image>
+请根据屏幕截图，输出“屏蔽知乎首页第三条回答”的下一步操作
+Assistant: 操作：点击
+参数：[252, 609]
+User: <image>
+请根据屏幕截图，输出“在知乎上回答“如何选择职业道路”相关问题”的下一步操作
+Assistant: 操作：点击
+参数：[672, 367]
+User: <image>
+请根据屏幕截图，输出“在知乎上回答“如何选择职业道路”相关问题”的下一步操作
+Assistant: 操作：点击
+参数：[342, 530]
+User: <image>
+请根据屏幕截图，输出“在知乎上回答“如何选择职业道路”相关问题”的下一步操作
+Assistant: 操作：输入
+参数：如何选择职业道路
+User: <image>
+请根据屏幕截图，输出“在知乎上回答“如何选择职业道路”相关问题”的下一步操作
+Assistant: 操作：点击
+参数：[902, 70]
+User: <image>
+请根据屏幕截图，输出“在知乎上回答“如何选择职业道路”相关问题”的下一步操作
+Assistant: 操作：点击
+参数：[250, 125]
+User: <image>
+请根据屏幕截图，输出“在知乎上回答“如何选择职业道路”相关问题”的下一步操作
+Assistant: 操作：点击
+参数：[255, 237]
+User: <image>
+请根据屏幕截图，输出“在知乎上回答“如何选择职业道路”相关问题”的下一步操作
+Assistant: 操作：点击
+参数：[133, 230]
+User: <image>
+请根据屏幕截图，输出“在知乎上回答“如何选择职业道路”相关问题”的下一步操作
+Assistant: 操作：输入
+参数：如何选择职业道路
+User: <image>
+请根据屏幕截图，输出“在知乎上回答“如何选择职业道路”相关问题”的下一步操作
+Assistant: 操作：点击
+参数：[901, 63]
+User: <image>
+请根据屏幕截图，输出“回复邮件“会议确认”，内容为“好的””的下一步操作
+Assistant: 操作：点击
+参数：[119, 547]
+User: <image>
+请根据屏幕截图，输出“回复邮件“会议确认”，内容为“好的””的下一步操作
+Assistant: 操作：点击
+参数：[887, 937]
+User: <image>
+请根据屏幕截图，输出“回复邮件“会议确认”，内容为“好的””的下一步操作
+Assistant: 操作：点击
+参数：[153, 607]
+User: <image>
+请根据屏幕截图，输出“回复邮件“会议确认”，内容为“好的””的下一步操作
+Assistant: 操作：点击
+参数：[860, 606]
+User: <image>
+请根据屏幕截图，输出“回复邮件“会议确认”，内容为“好的””的下一步操作
+Assistant: 操作：点击
+参数：[860, 604]
+User: <image>
+请根据屏幕截图，输出“发送一篇邮件给“tom@163.com”，主题为“活动通知”，内容为“以下是活动安排””的下一步操作
+Assistant: 操作：点击
+参数：[119, 491]
+User: <image>
+请根据屏幕截图，输出“发送一篇邮件给“tom@163.com”，主题为“活动通知”，内容为“以下是活动安排””的下一步操作
+Assistant: 操作：点击
+参数：[745, 850]
+User: <image>
+请根据屏幕截图，输出“发送一篇邮件给“tom@163.com”，主题为“活动通知”，内容为“以下是活动安排””的下一步操作
+Assistant: 操作：点击
+参数：[861, 604]
+User: <image>
+请根据屏幕截图，输出“发送一篇邮件给“tom@163.com”，主题为“活动通知”，内容为“以下是活动安排””的下一步操作
+Assistant: 操作：点击
+参数：[255, 329]
+User: <image>
+请根据屏幕截图，输出“发送一篇邮件给“tom@163.com”，主题为“活动通知”，内容为“以下是活动安排””的下一步操作
+Assistant: 操作：点击
+参数：[245, 340]
+User: <image>
+请根据屏幕截图，输出“发送一篇邮件给“tom@163.com”，主题为“活动通知”，内容为“以下是活动安排””的下一步操作
+Assistant: 操作：点击
+参数：[152, 267]
+User: <image>
+请根据屏幕截图，输出“发送一篇邮件给“tom@163.com”，主题为“活动通知”，内容为“以下是活动安排””的下一步操作
+Assistant: 操作：点击
+参数：[252, 249]
+User: <image>
+请根据屏幕截图，输出“发送一篇邮件给“tom@163.com”，主题为“活动通知”，内容为“以下是活动安排””的下一步操作
+Assistant: 操作：点击
+参数：[861, 604]
+User: <image>
+请根据屏幕截图，输出“打开微信“酒店民宿”服务”的下一步操作
+Assistant: 操作：点击
+参数：[491, 482]
+User: <image>
+请根据屏幕截图，输出“打开微信“酒店民宿”服务”的下一步操作
+Assistant: 操作：点击
+参数：[175, 947]
+User: <image>
+请根据屏幕截图，输出“打开微信“酒店民宿”服务”的下一步操作
+Assistant: 操作：点击
+参数：[185, 224]
+User: <image>
+请根据屏幕截图，输出“打开微信“酒店民宿”服务”的下一步操作
+Assistant: 操作：点击
+参数：[887, 602]
+User: <image>
+请根据屏幕截图，输出“搜索并关注微信公众号“豆瓣””的下一步操作
+Assistant: 操作：点击
+参数：[488, 489]
+User: <image>
+请根据屏幕截图，输出“搜索并关注微信公众号“豆瓣””的下一步操作
+Assistant: 操作：点击
+参数：[836, 63]
+User: <image>
+请根据屏幕截图，输出“搜索并关注微信公众号“豆瓣””的下一步操作
+Assistant: 操作：点击
+参数：[865, 490]
+User: <image>
+请根据屏幕截图，输出“搜索并关注微信公众号“豆瓣””的下一步操作
+Assistant: 操作：点击
+参数：[865, 63]
+User: <image>
+请根据屏幕截图，输出“搜索并关注微信公众号“豆瓣””的下一步操作
+Assistant: 操作：点击
+参数：[392, 424]
+User: <image>
+请根据屏幕截图，输出“搜索并关注微信公众号“豆瓣””的下一步操作
+Assistant: 操作：点击
+参数：[491, 311]
+User: <image>
+请根据屏幕截图，输出“发一条微信朋友圈，内容为“工作加油””的下一步操作
+Assistant: 操作：点击
+参数：[488, 481]
+User: <image>
+请根据屏幕截图，输出“发一条微信朋友圈，内容为“工作加油””的下一步操作
+Assistant: 操作：点击
+参数：[861, 63]
+User: <image>
+请根据屏幕截图，输出“发一条微信朋友圈，内容为“工作加油””的下一步操作
+Assistant: 操作：点击
+参数：[123, 124]
+User: <image>
+请根据屏幕截图，输出“发一条微信朋友圈，内容为“工作加油””的下一步操作
+Assistant: 操作：长按
+参数：[922, 62]
+User: <image>
+请根据屏幕截图，输出“发一条微信朋友圈，内容为“工作加油””的下一步操作
+Assistant: 操作：输入
+参数：工作加油
+User: <image>
+请根据屏幕截图，输出“发一条微信朋友圈，内容为“工作加油””的下一步操作
+Assistant: 操作：点击
+参数：[887, 600]
+User: <image>
+请根据屏幕截图，输出“浏览并转发“北京大学”的最新微博”的下一步操作
+Assistant: 操作：点击
+参数：[867, 355]
+User: <image>
+请根据屏幕截图，输出“浏览并转发“北京大学”的最新微博”的下一步操作
+Assistant: 操作：点击
+参数：[150, 837]
+User: <image>
+请根据屏幕截图，输出“浏览并转发“北京大学”的最新微博”的下一步操作
+Assistant: 操作：点击
+参数：[288, 85]
+User: <image>
+请根据屏幕截图，输出“浏览并转发“北京大学”的最新微博”的下一步操作
+Assistant: 操作：点击
+参数：[887, 940]
+User: <image>
+请根据屏幕截图，输出“浏览并转发“北京大学”的最新微博”的下一步操作
+Assistant: 操作：点击
+参数：[883, 66]
+User: <image>
+请根据屏幕截图，输出“浏览并转发“北京大学”的最新微博”的下一步操作
+Assistant: 操作：点击
+参数：[285, 601]
+User: <image>
+请根据屏幕截图，输出“浏览并转发“北京大学”的最新微博”的下一步操作
+Assistant: 操作：点击
+参数：[180, 237]
+User: <image>
+请根据屏幕截图，输出“浏览并转发“北京大学”的最新微博”的下一步操作
+Assistant: 操作：点击
+参数：[180, 937]
+User: <image>
+请根据屏幕截图，输出“浏览并转发“北京大学”的最新微博”的下一步操作
+Assistant: 操作：点击
+参数：[245, 129]
+User: <image>
+请根据屏幕截图，输出“发一条微博，内容为“我爱编程””的下一步操作
+Assistant: 操作：点击
+参数：[866, 244]
+User: <image>
+请根据屏幕截图，输出“发一条微博，内容为“我爱编程””的下一步操作
+Assistant: 操作：点击
+参数：[887, 937]
+User: <image>
+请根据屏幕截图，输出“发一条微博，内容为“我爱编程””的下一步操作
+Assistant: 操作：点击
+参数：[602, 540]
+User: <image>
+请根据屏幕截图，输出“发一条微博，内容为“我爱编程””的下一步操作
+Assistant: 操作：输入
+参数：我爱编程
+User: <image>
+请根据屏幕截图，输出“发一条微博，内容为“我爱编程””的下一步操作
+Assistant: 操作：点击
+参数：[883, 602]
+User: <image>
+请根据屏幕截图，输出“打开美团奈雪的茶外卖菜单”的下一步操作
+Assistant: 操作：点击
+参数：[488, 340]
+User: <image>
+请根据屏幕截图，输出“打开美团奈雪的茶外卖菜单”的下一步操作
+Assistant: 操作：点击
+参数：[501, 79]
+User: <image>
+请根据屏幕截图，输出“打开美团奈雪的茶外卖菜单”的下一步操作
+Assistant: 操作：点击
+参数：[871, 63]
+User: <image>
+请根据屏幕截图，输出“打开美团奈雪的茶外卖菜单”的下一步操作
+Assistant: 操作：点击
+参数：[871, 940]
+User: <image>
+请根据屏幕截图，输出“打开美团奈雪的茶外卖菜单”的下一步操作
+Assistant: 操作：点击
+参数：[827, 507]
+User: <image>
+请根据屏幕截图，输出“用美团买药买一盒莲花清瘟胶囊”的下一步操作
+Assistant: 操作：点击
+参数：[488, 234]
+User: <image>
+请根据屏幕截图，输出“用美团买药买一盒莲花清瘟胶囊”的下一步操作
+Assistant: 操作：点击
+参数：[652, 129]
+User: <image>
+请根据屏幕截图，输出“用美团买药买一盒莲花清瘟胶囊”的下一步操作
+Assistant: 操作：点击
+参数：[492, 542]
+User: <image>
+请根据屏幕截图，输出“用美团买药买一盒莲花清瘟胶囊”的下一步操作
+Assistant: 操作：点击
+参数：[865, 290]
+User: <image>
+请根据屏幕截图，输出“用美团买药买一盒莲花清瘟胶囊”的下一步操作
+Assistant: 操作：点击
+参数：[887, 70]
+User: <image>
+请根据屏幕截图，输出“用美团买药买一盒莲花清瘟胶囊”的下一步操作
+Assistant: 操作：点击
+参数：[421, 227]
+User: <image>
+请根据屏幕截图，输出“用美团买药买一盒莲花清瘟胶囊”的下一步操作
+Assistant: 操作：点击
+参数：[806, 937]
+User: <image>
+请根据屏幕截图，输出“用饿了么点一份汉堡王外卖”的下一步操作
+Assistant: 操作：点击
+参数：[870, 489]
+User: <image>
+请根据屏幕截图，输出“用饿了么点一份汉堡王外卖”的下一步操作
+Assistant: 操作：点击
+参数：[472, 129]
+User: <image>
+请根据屏幕截图，输出“用饿了么点一份汉堡王外卖”的下一步操作
+Assistant: 操作：输入
+参数：汉堡王
+User: <image>
+请根据屏幕截图，输出“用饿了么点一份汉堡王外卖”的下一步操作
+Assistant: 操作：点击
+参数：[860, 66]
+User: <image>
+请根据屏幕截图，输出“用饿了么点一份汉堡王外卖”的下一步操作
+Assistant: 操作：点击
+参数：[424, 139]
+User: <image>
+请根据屏幕截图，输出“用饿了么点一份汉堡王外卖”的下一步操作
+Assistant: 操作：点击
+参数：[424, 73]
+User: <image>
+请根据屏幕截图，输出“用饿了么点一份汉堡王外卖”的下一步操作
+Assistant: 操作：点击
+参数：[501, 851]
+User: <image>
+请根据屏幕截图，输出“用饿了么点一份汉堡王外卖”的下一步操作
+Assistant: 操作：点击
+参数：[827, 499]
+User: <image>
+请根据屏幕截图，输出“用饿了么点一份汉堡王外卖”的下一步操作
+Assistant: 操作：点击
+参数：[816, 947]
+User: <image>
+请根据屏幕截图，输出“在淘宝上购买《百年孤独》”的下一步操作
+Assistant: 操作：点击
+参数：[322, 227]
+User: <image>
+请根据屏幕截图，输出“在淘宝上购买《百年孤独》”的下一步操作
+Assistant: 操作：点击
+参数：[352, 604]
+User: <image>
+请根据屏幕截图，输出“在淘宝上购买《百年孤独》”的下一步操作
+Assistant: 操作：输入
+参数：百年孤独
+User: <image>
+请根据屏幕截图，输出“在淘宝上购买《百年孤独》”的下一步操作
+Assistant: 操作：点击
+参数：[883, 66]
+User: <image>
+请根据屏幕截图，输出“在淘宝上购买《百年孤独》”的下一步操作
+Assistant: 操作：点击
+参数：[250, 597]
+User: <image>
+请根据屏幕截图，输出“在淘宝上购买《百年孤独》”的下一步操作
+Assistant: 操作：点击
+参数：[895, 947]
+User: <image>
+请根据屏幕截图，输出“在淘宝上购买《百年孤独》”的下一步操作
+Assistant: 操作：点击
+参数：[150, 237]
+User: <image>
+请根据屏幕截图，输出“查看当前淘宝搜索页中“乐高我的世界系列”商品详情”的下一步操作
+Assistant: 操作：点击
+参数：[352, 597]
+User: <image>
+请根据屏幕截图，输出“查看当前淘宝搜索页中“乐高我的世界系列”商品详情”的下一步操作
+Assistant: 操作：点击
+参数：[806, 939]
+User: <image>
+请根据屏幕截图，输出“查看当前淘宝搜索页中“乐高我的世界系列”商品详情”的下一步操作
+Assistant: 操作：点击
+参数：[885, 937]
+User: <image>
+请根据屏幕截图，输出“用携程搜索上海到杭州的火车票”的下一步操作
+Assistant: 操作：点击
+参数：[100, 357]
+User: <image>
+请根据屏幕截图，输出“用携程搜索上海到杭州的火车票”的下一步操作
+Assistant: 操作：点击
+参数：[352, 169]
+User: <image>
+请根据屏幕截图，输出“用携程搜索上海到杭州的火车票”的下一步操作
+Assistant: 操作：点击
+参数：[149, 427]
+User: <image>
+请根据屏幕截图，输出“用携程搜索上海到杭州的火车票”的下一步操作
+Assistant: 操作：点击
+参数：[170, 227]
+User: <image>
+请根据屏幕截图，输出“用携程搜索上海到杭州的火车票”的下一步操作
+Assistant: 操作：点击
+参数：[149, 429]
+User: <image>
+请根据屏幕截图，输出“用百度地图导航去最近的中国石油加油站”的下一步操作
+Assistant: 操作：点击
+参数：[315, 477]
+User: <image>
+请根据屏幕截图，输出“用百度地图导航去最近的中国石油加油站”的下一步操作
+Assistant: 操作：点击
+参数：[412, 83]
+User: <image>
+请根据屏幕截图，输出“用百度地图导航去最近的中国石油加油站”的下一步操作
+Assistant: 操作：输入
+参数：中国石油
+User: <image>
+请根据屏幕截图，输出“用百度地图导航去最近的中国石油加油站”的下一步操作
+Assistant: 操作：点击
+参数：[860, 93]
+User: <image>
+请根据屏幕截图，输出“用百度地图导航去最近的中国石油加油站”的下一步操作
+Assistant: 操作：点击
+参数：[198, 240]
+User: <image>
+请根据屏幕截图，输出“用百度地图导航去最近的中国石油加油站”的下一步操作
+Assistant: 操作：点击
+参数：[195, 244]
+User: <image>
+请根据屏幕截图，输出“用百度地图导航去最近的中国石油加油站”的下一步操作
+Assistant: 操作：点击
+参数：[199, 240]
+User: <image>
+请根据屏幕截图，输出“用百度地图导航去最近的中国石油加油站”的下一步操作
+Assistant: 操作：点击
+参数：[602, 937]
+User: <image>
+请根据屏幕截图，输出“用高德地图导航去城隍庙”的下一步操作
+Assistant: 操作：点击
+参数：[672, 427]
+User: <image>
+请根据屏幕截图，输出“用高德地图导航去城隍庙”的下一步操作
+Assistant: 操作：点击
+参数：[420, 582]
+User: <image>
+请根据屏幕截图，输出“用高德地图导航去城隍庙”的下一步操作
+Assistant: 操作：输入
+参数：城隍庙
+User: <image>
+请根据屏幕截图，输出“用高德地图导航去城隍庙”的下一步操作
+Assistant: 操作：点击
+参数：[860, 68]
+User: <image>
+请根据屏幕截图，输出“用高德地图导航去城隍庙”的下一步操作
+Assistant: 操作：点击
+参数：[504, 942]
+User: <image>
+请根据屏幕截图，输出“打开网易云音乐中“已下载”列表”的下一步操作
+Assistant: 操作：点击
+参数：[116, 599]
+User: <image>
+请根据屏幕截图，输出“打开网易云音乐中“已下载”列表”的下一步操作
+Assistant: 操作：点击
+参数：[745, 937]
+User: <image>
+请根据屏幕截图，输出“打开网易云音乐中“已下载”列表”的下一步操作
+Assistant: 操作：点击
+参数：[159, 407]
+User: <image>
+请根据屏幕截图，输出“用网易云音乐播放雨一直下”的下一步操作
+Assistant: 操作：点击
+参数：[133, 597]
+User: <image>
+请根据屏幕截图，输出“用网易云音乐播放雨一直下”的下一步操作
+Assistant: 操作：点击
+参数：[485, 940]
+User: <image>
+请根据屏幕截图，输出“用网易云音乐播放雨一直下”的下一步操作
+Assistant: 操作：输入
+参数：雨一直下
+User: <image>
+请根据屏幕截图，输出“用网易云音乐播放雨一直下”的下一步操作
+Assistant: 操作：点击
+参数：[902, 75]
+User: <image>
+请根据屏幕截图，输出“用网易云音乐播放雨一直下”的下一步操作
+Assistant: 操作：点击
+参数：[101, 495]
+User: <image>
+请根据屏幕截图，输出“打开视频评论区”的下一步操作
+Assistant: 操作：点击
+参数：[936, 635]
+User: <image>
+请根据屏幕截图，输出“在抖音团购区搜索桌球团购”的下一步操作
+Assistant: 操作：点击
+参数：[676, 473]
+User: <image>
+请根据屏幕截图，输出“在抖音团购区搜索桌球团购”的下一步操作
+Assistant: 操作：点击
+参数：[837, 63]
+User: <image>
+请根据屏幕截图，输出“在抖音团购区搜索桌球团购”的下一步操作
+Assistant: 操作：点击
+参数：[352, 190]
+User: <image>
+请根据屏幕截图，输出“在抖音团购区搜索桌球团购”的下一步操作
+Assistant: 操作：输入
+参数：桌球团购
+User: <image>
+请根据屏幕截图，输出“在抖音团购区搜索桌球团购”的下一步操作
+Assistant: 操作：点击
+参数：[902, 600]
+User: <image>
+请根据屏幕截图，输出“在抖音商城中下单RTX 4090”的下一步操作
+Assistant: 操作：点击
+参数：[686, 429]
+User: <image>
+请根据屏幕截图，输出“在抖音商城中下单RTX 4090”的下一步操作
+Assistant: 操作：点击
+参数：[883, 937]
+User: <image>
+请根据屏幕截图，输出“在抖音商城中下单RTX 4090”的下一步操作
+Assistant: 操作：点击
+参数：[912, 860]
+User: <image>
+请根据屏幕截图，输出“在抖音商城中下单RTX 4090”的下一步操作
+Assistant: 操作：点击
+参数：[895, 942]
+User: <image>
+请根据屏幕截图，输出“在抖音商城中下单RTX 4090”的下一步操作
+Assistant: 操作：点击
+参数：[860, 604]
+User: <image>
+请根据屏幕截图，输出“在抖音商城中下单RTX 4090”的下一步操作
+Assistant: 操作：点击
+参数：[902, 75]
+User: <image>
+请根据屏幕截图，输出“在抖音商城中下单RTX 4090”的下一步操作
+Assistant: 操作：点击
+参数：[252, 63]
+User: <image>
+请根据屏幕截图，输出“在抖音商城中下单RTX 4090”的下一步操作
+Assistant: 操作：点击
+参数：[601, 944]
+User: <image>
+请根据屏幕截图，输出“用B站播放红烧肉做法相关视频”的下一步操作
+Assistant: 操作：点击
+参数：[685, 479]
+User: <image>
+请根据屏幕截图，输出“用B站播放红烧肉做法相关视频”的下一步操作
+Assistant: 操作：点击
+参数：[495, 79]
+User: <image>
+请根据屏幕截图，输出“用B站播放红烧肉做法相关视频”的下一步操作
+Assistant: 操作：输入
+参数：红烧肉
+User: <image>
+请根据屏幕截图，输出“用B站播放红烧肉做法相关视频”的下一步操作
+Assistant: 操作：点击
+参数：[911, 76]
+User: <image>
+请根据屏幕截图，输出“用B站播放红烧肉做法相关视频”的下一步操作
+Assistant: 操作：点击
+参数：[255, 200]
+User: <image>
+请根据屏幕截图，输出“用夸克浏览器打开steam官网”的下一步操作
+Assistant: 操作：点击
+参数：[116, 729]
+User: <image>
+请根据屏幕截图，输出“用夸克浏览器打开steam官网”的下一步操作
+Assistant: 操作：点击
+参数：[352, 424]
+User: <image>
+请根据屏幕截图，输出“用夸克浏览器打开steam官网”的下一步操作
+Assistant: 操作：点击
+参数：[860, 937]
+User: <image>
+请根据屏幕截图，输出“用夸克浏览器打开steam官网”的下一步操作
+Assistant: 操作：点击
+参数：[902, 66]
+User: <image>
+请根据屏幕截图，输出“用夸克浏览器打开steam官网”的下一步操作
+Assistant: 操作：点击
+参数：[402, 200]
+User: <image>
+请根据屏幕截图，输出“用Edge浏览器打开百度官网”的下一步操作
+Assistant: 操作：点击
+参数：[866, 357]
+User: <image>
+请根据屏幕截图，输出“用Edge浏览器打开百度官网”的下一步操作
+Assistant: 操作：点击
+参数：[302, 529]
+User: <image>
+请根据屏幕截图，输出“用Edge浏览器打开百度官网”的下一步操作
+Assistant: 操作：输入
+参数：百度官网
+User: <image>
+请根据屏幕截图，输出“用Edge浏览器打开百度官网”的下一步操作
+Assistant: 操作：点击
+参数：[887, 906]
+User: <image>
+请根据屏幕截图，输出“打开保险购买情况表格，A2填写Bob，B2填写未购买，并保存”的下一步操作
+Assistant: 操作：点击
+参数：[123, 483]
+User: <image>
+请根据屏幕截图，输出“打开保险购买情况表格，A2填写Bob，B2填写未购买，并保存”的下一步操作
+Assistant: 操作：点击
+参数：[211, 190]
+User: <image>
+请根据屏幕截图，输出“打开保险购买情况表格，A2填写Bob，B2填写未购买，并保存”的下一步操作
+Assistant: 操作：点击
+参数：[211, 190]
+User: <image>
+请根据屏幕截图，输出“打开保险购买情况表格，A2填写Bob，B2填写未购买，并保存”的下一步操作
+Assistant: 操作：点击
+参数：[211, 71]
+User: <image>
+请根据屏幕截图，输出“打开保险购买情况表格，A2填写Bob，B2填写未购买，并保存”的下一步操作
+Assistant: 操作：点击
+参数：[211, 189]
+User: <image>
+请根据屏幕截图，输出“打开保险购买情况表格，A2填写Bob，B2填写未购买，并保存”的下一步操作
+Assistant: 操作：点击
+参数：[211, 189]
+User: <image>
+请根据屏幕截图，输出“打开保险购买情况表格，A2填写Bob，B2填写未购买，并保存”的下一步操作
+Assistant: 操作：点击
+参数：[211, 189]
+User: <image>
+请根据屏幕截图，输出“打开保险购买情况表格，A2填写Bob，B2填写未购买，并保存”的下一步操作
+Assistant: 操作：点击
+参数：[211, 189]
+User: <image>
+请根据屏幕截图，输出“打开保险购买情况表格，A2填写Bob，B2填写未购买，并保存”的下一步操作
+Assistant: 操作：点击
+参数：[211, 190]
+User: <image>
+请根据屏幕截图，输出“用WPS新建一个Word文档，输入锻炼计划，并保存”的下一步操作
+Assistant: 操作：点击
+参数：[125, 239]
+User: <image>
+请根据屏幕截图，输出“用WPS新建一个Word文档，输入锻炼计划，并保存”的下一步操作
+Assistant: 操作：点击
+参数：[123, 804]
+User: <image>
+请根据屏幕截图，输出“用WPS新建一个Word文档，输入锻炼计划，并保存”的下一步操作
+Assistant: 操作：点击
+参数：[123, 511]
+User: <image>
+请根据屏幕截图，输出“用WPS新建一个Word文档，输入锻炼计划，并保存”的下一步操作
+Assistant: 操作：点击
+参数：[252, 139]
+User: <image>
+请根据屏幕截图，输出“用WPS新建一个Word文档，输入锻炼计划，并保存”的下一步操作
+Assistant: 操作：输入
+参数：锻炼计划
+User: <image>
+请根据屏幕截图，输出“用WPS新建一个Word文档，输入锻炼计划，并保存”的下一步操作
+Assistant: 操作：点击
+参数：[211, 524]
+User: <image>
+请根据屏幕截图，输出“用WPS新建一个Word文档，输入锻炼计划，并保存”的下一步操作
+Assistant: 操作：输入
+参数：锻炼计划
+Evaluating response for <image>
+请根据屏幕截图，输出“在知乎关注话题“金融科技””的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“在知乎关注话题“金融科技””的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“在知乎关注话题“金融科技””的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“在知乎关注话题“金融科技””的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“在知乎关注话题“金融科技””的下一步操作
+Action mismatch. Expected: 滑动, Actual: 点击
+Evaluating response for <image>
+请根据屏幕截图，输出“在知乎关注话题“金融科技””的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“在知乎关注话题“金融科技””的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“在知乎关注话题“金融科技””的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“屏蔽知乎首页第三条回答”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“屏蔽知乎首页第三条回答”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“在知乎上回答“如何选择职业道路”相关问题”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“在知乎上回答“如何选择职业道路”相关问题”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“在知乎上回答“如何选择职业道路”相关问题”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“在知乎上回答“如何选择职业道路”相关问题”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“在知乎上回答“如何选择职业道路”相关问题”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“在知乎上回答“如何选择职业道路”相关问题”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“在知乎上回答“如何选择职业道路”相关问题”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“在知乎上回答“如何选择职业道路”相关问题”的下一步操作
+Input mismatch. Expected: 找到自己的喜好，考虑职业发展前景, Actual: 如何选择职业道路
+Evaluating response for <image>
+请根据屏幕截图，输出“在知乎上回答“如何选择职业道路”相关问题”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“回复邮件“会议确认”，内容为“好的””的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“回复邮件“会议确认”，内容为“好的””的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“回复邮件“会议确认”，内容为“好的””的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“回复邮件“会议确认”，内容为“好的””的下一步操作
+Action mismatch. Expected: 输入, Actual: 点击
+Evaluating response for <image>
+请根据屏幕截图，输出“回复邮件“会议确认”，内容为“好的””的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“发送一篇邮件给“tom@163.com”，主题为“活动通知”，内容为“以下是活动安排””的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“发送一篇邮件给“tom@163.com”，主题为“活动通知”，内容为“以下是活动安排””的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“发送一篇邮件给“tom@163.com”，主题为“活动通知”，内容为“以下是活动安排””的下一步操作
+Action mismatch. Expected: 输入, Actual: 点击
+Evaluating response for <image>
+请根据屏幕截图，输出“发送一篇邮件给“tom@163.com”，主题为“活动通知”，内容为“以下是活动安排””的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“发送一篇邮件给“tom@163.com”，主题为“活动通知”，内容为“以下是活动安排””的下一步操作
+Action mismatch. Expected: 输入, Actual: 点击
+Evaluating response for <image>
+请根据屏幕截图，输出“发送一篇邮件给“tom@163.com”，主题为“活动通知”，内容为“以下是活动安排””的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“发送一篇邮件给“tom@163.com”，主题为“活动通知”，内容为“以下是活动安排””的下一步操作
+Action mismatch. Expected: 输入, Actual: 点击
+Evaluating response for <image>
+请根据屏幕截图，输出“发送一篇邮件给“tom@163.com”，主题为“活动通知”，内容为“以下是活动安排””的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“打开微信“酒店民宿”服务”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“打开微信“酒店民宿”服务”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“打开微信“酒店民宿”服务”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“打开微信“酒店民宿”服务”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“搜索并关注微信公众号“豆瓣””的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“搜索并关注微信公众号“豆瓣””的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“搜索并关注微信公众号“豆瓣””的下一步操作
+Action mismatch. Expected: 输入, Actual: 点击
+Evaluating response for <image>
+请根据屏幕截图，输出“搜索并关注微信公众号“豆瓣””的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“搜索并关注微信公众号“豆瓣””的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“搜索并关注微信公众号“豆瓣””的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“发一条微信朋友圈，内容为“工作加油””的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“发一条微信朋友圈，内容为“工作加油””的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“发一条微信朋友圈，内容为“工作加油””的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“发一条微信朋友圈，内容为“工作加油””的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“发一条微信朋友圈，内容为“工作加油””的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“发一条微信朋友圈，内容为“工作加油””的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“浏览并转发“北京大学”的最新微博”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“浏览并转发“北京大学”的最新微博”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“浏览并转发“北京大学”的最新微博”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“浏览并转发“北京大学”的最新微博”的下一步操作
+Action mismatch. Expected: 输入, Actual: 点击
+Evaluating response for <image>
+请根据屏幕截图，输出“浏览并转发“北京大学”的最新微博”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“浏览并转发“北京大学”的最新微博”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“浏览并转发“北京大学”的最新微博”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“浏览并转发“北京大学”的最新微博”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“浏览并转发“北京大学”的最新微博”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“发一条微博，内容为“我爱编程””的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“发一条微博，内容为“我爱编程””的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“发一条微博，内容为“我爱编程””的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“发一条微博，内容为“我爱编程””的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“发一条微博，内容为“我爱编程””的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“打开美团奈雪的茶外卖菜单”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“打开美团奈雪的茶外卖菜单”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“打开美团奈雪的茶外卖菜单”的下一步操作
+Action mismatch. Expected: 输入, Actual: 点击
+Evaluating response for <image>
+请根据屏幕截图，输出“打开美团奈雪的茶外卖菜单”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“打开美团奈雪的茶外卖菜单”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用美团买药买一盒莲花清瘟胶囊”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用美团买药买一盒莲花清瘟胶囊”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用美团买药买一盒莲花清瘟胶囊”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用美团买药买一盒莲花清瘟胶囊”的下一步操作
+Action mismatch. Expected: 输入, Actual: 点击
+Evaluating response for <image>
+请根据屏幕截图，输出“用美团买药买一盒莲花清瘟胶囊”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用美团买药买一盒莲花清瘟胶囊”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用美团买药买一盒莲花清瘟胶囊”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用饿了么点一份汉堡王外卖”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用饿了么点一份汉堡王外卖”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用饿了么点一份汉堡王外卖”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用饿了么点一份汉堡王外卖”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用饿了么点一份汉堡王外卖”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用饿了么点一份汉堡王外卖”的下一步操作
+Action mismatch. Expected: 滑动, Actual: 点击
+Evaluating response for <image>
+请根据屏幕截图，输出“用饿了么点一份汉堡王外卖”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用饿了么点一份汉堡王外卖”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用饿了么点一份汉堡王外卖”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“在淘宝上购买《百年孤独》”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“在淘宝上购买《百年孤独》”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“在淘宝上购买《百年孤独》”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“在淘宝上购买《百年孤独》”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“在淘宝上购买《百年孤独》”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“在淘宝上购买《百年孤独》”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“在淘宝上购买《百年孤独》”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“查看当前淘宝搜索页中“乐高我的世界系列”商品详情”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“查看当前淘宝搜索页中“乐高我的世界系列”商品详情”的下一步操作
+Action mismatch. Expected: 滑动, Actual: 点击
+Evaluating response for <image>
+请根据屏幕截图，输出“查看当前淘宝搜索页中“乐高我的世界系列”商品详情”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用携程搜索上海到杭州的火车票”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用携程搜索上海到杭州的火车票”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用携程搜索上海到杭州的火车票”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用携程搜索上海到杭州的火车票”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用携程搜索上海到杭州的火车票”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用百度地图导航去最近的中国石油加油站”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用百度地图导航去最近的中国石油加油站”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用百度地图导航去最近的中国石油加油站”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用百度地图导航去最近的中国石油加油站”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用百度地图导航去最近的中国石油加油站”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用百度地图导航去最近的中国石油加油站”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用百度地图导航去最近的中国石油加油站”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用百度地图导航去最近的中国石油加油站”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用高德地图导航去城隍庙”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用高德地图导航去城隍庙”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用高德地图导航去城隍庙”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用高德地图导航去城隍庙”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用高德地图导航去城隍庙”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“打开网易云音乐中“已下载”列表”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“打开网易云音乐中“已下载”列表”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“打开网易云音乐中“已下载”列表”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用网易云音乐播放雨一直下”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用网易云音乐播放雨一直下”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用网易云音乐播放雨一直下”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用网易云音乐播放雨一直下”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用网易云音乐播放雨一直下”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“打开视频评论区”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“在抖音团购区搜索桌球团购”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“在抖音团购区搜索桌球团购”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“在抖音团购区搜索桌球团购”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“在抖音团购区搜索桌球团购”的下一步操作
+Input mismatch. Expected: 桌球, Actual: 桌球团购
+Evaluating response for <image>
+请根据屏幕截图，输出“在抖音团购区搜索桌球团购”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“在抖音商城中下单RTX 4090”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“在抖音商城中下单RTX 4090”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“在抖音商城中下单RTX 4090”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“在抖音商城中下单RTX 4090”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“在抖音商城中下单RTX 4090”的下一步操作
+Action mismatch. Expected: 输入, Actual: 点击
+Evaluating response for <image>
+请根据屏幕截图，输出“在抖音商城中下单RTX 4090”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“在抖音商城中下单RTX 4090”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“在抖音商城中下单RTX 4090”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用B站播放红烧肉做法相关视频”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用B站播放红烧肉做法相关视频”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用B站播放红烧肉做法相关视频”的下一步操作
+Input mismatch. Expected: 红烧肉做法, Actual: 红烧肉
+Evaluating response for <image>
+请根据屏幕截图，输出“用B站播放红烧肉做法相关视频”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用B站播放红烧肉做法相关视频”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用夸克浏览器打开steam官网”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用夸克浏览器打开steam官网”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用夸克浏览器打开steam官网”的下一步操作
+Action mismatch. Expected: 输入, Actual: 点击
+Evaluating response for <image>
+请根据屏幕截图，输出“用夸克浏览器打开steam官网”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用夸克浏览器打开steam官网”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用Edge浏览器打开百度官网”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用Edge浏览器打开百度官网”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用Edge浏览器打开百度官网”的下一步操作
+Input mismatch. Expected: baidu.com, Actual: 百度官网
+Evaluating response for <image>
+请根据屏幕截图，输出“用Edge浏览器打开百度官网”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“打开保险购买情况表格，A2填写Bob，B2填写未购买，并保存”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“打开保险购买情况表格，A2填写Bob，B2填写未购买，并保存”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“打开保险购买情况表格，A2填写Bob，B2填写未购买，并保存”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“打开保险购买情况表格，A2填写Bob，B2填写未购买，并保存”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“打开保险购买情况表格，A2填写Bob，B2填写未购买，并保存”的下一步操作
+Action mismatch. Expected: 输入, Actual: 点击
+Evaluating response for <image>
+请根据屏幕截图，输出“打开保险购买情况表格，A2填写Bob，B2填写未购买，并保存”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“打开保险购买情况表格，A2填写Bob，B2填写未购买，并保存”的下一步操作
+Action mismatch. Expected: 输入, Actual: 点击
+Evaluating response for <image>
+请根据屏幕截图，输出“打开保险购买情况表格，A2填写Bob，B2填写未购买，并保存”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“打开保险购买情况表格，A2填写Bob，B2填写未购买，并保存”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用WPS新建一个Word文档，输入锻炼计划，并保存”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用WPS新建一个Word文档，输入锻炼计划，并保存”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用WPS新建一个Word文档，输入锻炼计划，并保存”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用WPS新建一个Word文档，输入锻炼计划，并保存”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用WPS新建一个Word文档，输入锻炼计划，并保存”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用WPS新建一个Word文档，输入锻炼计划，并保存”的下一步操作
+Evaluating response for <image>
+请根据屏幕截图，输出“用WPS新建一个Word文档，输入锻炼计划，并保存”的下一步操作
+Action mismatch. Expected: 点击, Actual: 输入
